@@ -1,0 +1,136 @@
+{
+ "projects": [
+    {
+        "id": 1,
+        "name": "E-Commerce Website",
+        "image": "https://i.postimg.cc/7hP4TdTt/Screenshot-2023-07-05-092516.png",
+        "desc": "The is an e-commerce website which was JavaScript End-Of-Module-Project. It includes a modern, responsive design that is optimized for mobile devices and tablets. The UI also feature intuitive navigation menus, product categories, shopping carts and checkout forms. ",
+        "github": "",
+        "netlify": ""
+    },
+    {
+        "id": 2,
+        "name": "Calculator Task",
+        "image": "https://i.postimg.cc/k4fPQwCj/Screenshot-2023-07-05-085908.png",
+        "desc": ".This is a calculator task created using HTML, CSS and JavaScript, it has basic functions of a calculator, it has a clear display area to show the results of calculations and the user interface is intuitive and easy to use for users with minimal technical knowledge. ",
+        "github": "",
+        "netlify": ""
+    },
+    {
+        "id": 3,
+        "name": "BMI-Calculator Task",
+        "image": "https://i.postimg.cc/85jgbMCN/Screenshot-2023-07-05-090110.png",
+        "desc": "This project involve creating a basic BMI calculator using HTML, CSS and JavaScript. This BMI calculator include two text boxes for entering height and weight, as well as button for submitting the data. Once submitted, the page will return the calculated BMI value along with a description of what it means.",
+        "github": "",
+        "netlify": ""
+    },
+    {
+        "id": 4,
+        "name": "To Do List",
+        "image": "https://i.postimg.cc/TP39yck2/Screenshot-2023-07-05-085608.png",
+        "desc": "This is a second JavaScript task whereby I had to create a To Do List using HTML, CSS and JavaScript. It is able to store data in the browser's local storage so that it can be accessed even after closing the page and the user is able to add and delete tasks with description.",
+        "github": "",
+        "netlify": ""
+    },
+    {
+        "id": 5,
+        "name": "Temperature Converter",
+        "image": "https://i.postimg.cc/bv5QZfDL/Screenshot-2023-07-05-085757.png",
+        "desc": "This is a third JavaScript task whereby I had create a Temperature Converter using HTML, CSS and JavaScript. This temperature converter allows users to convert temperatures between Celsius and Fahrenheit scales. The UI is easy-to-use for all types of users.",
+        "github": "",
+        "netlify": ""
+    },
+    {
+        "id": 6,
+        "name": "Book Store",
+        "image": "https://i.postimg.cc/hPmx5md4/Screenshot-2023-07-05-085700.png",
+        "desc": "This was a practice for the JavaScript-End-Of-Module Project and the site is user friendly.",
+        "github": "",
+        "netlify": ""
+    },
+    {
+        "id": 7,
+        "name": "First Portfolio Website",
+        "image": "https://i.postimg.cc/rs4mQvpV/Screenshot-2023-07-05-090232.png",
+        "desc": "This was my first portfolio created using HTML, CSS and Bootstrap.",
+        "github": "",
+        "netlify": ""
+    },
+    {
+        "id": 8,
+        "name": "Class List Table",
+        "image": "https://i.postimg.cc/pr5b67nT/Class-List.png",
+        "desc": "This was my first project that I did using HTML and CSS.",
+        "github": "",
+        "netlify": ""
+    },
+    {
+        "id": 9,
+        "name": "Vue.Js E-Commerce Replication",
+        "image": "https://i.postimg.cc/7hP4TdTt/Screenshot-2023-07-05-092516.png",
+        "desc": "This was a Vue.Js practice whereby you had to a replication of your e-commerce website using Vue.Js.",
+        "github": "",
+        "netlify": ""
+    }
+ ],
+ "testimonials": [
+    {
+        "id": 1,
+        "name": "Zulaigah Benjamin",
+        "desc": "Colleague",
+        "image": "https://i.postimg.cc/tR3Jj6JT/IMG-2409.jpg",
+        "testimonial": "Working with Inam has been a pleasure. His attitude towards his work and commitment to continually learn new things makes him a good fit to have in ones team. His confidence is contagious and he is well suited for any environments."
+    },
+    {
+        "id": 2,
+        "name": "Okuhle Gxotiwe",
+        "desc": "Colleague",
+        "image": "https://i.postimg.cc/vBLNmSdT/C12-Okuhle-Gwotiwe-1.jpg",
+        "testimonial": "He is very diligent with his work ,creative and shares honest feedback." 
+    },
+    {
+        "id": 3,
+        "name": "Waydin Jochem",
+        "desc": "Colleague",
+        "image": "https://i.postimg.cc/3NdsZygM/Waydin-Jochem-C12-C1-25-Apr23-1.jpg",
+        "testimonial": "Inam is an enthusiastic person, who is always willing to improve upon his mistakes. He's constantly interacting with other people, learning different skills each day and often-times shares he's skills with he's colleagues at work. There's hardly ever an unpleasant moment when he's around and he is a constant source of joy in the workplace."
+    },
+    {
+        "id": 4,
+        "name": "Sidwell Batyi",
+        "desc": "Colleague",
+        "image": "https://i.postimg.cc/65XgqSzK/image.png",
+        "testimonial": "Inam is a confident and enthusiastic young man that enjoys creating and building websites."
+    },
+    {
+        "id": 5,
+        "name": "Sakhe Mzolisa",
+        "desc": "Former Team Leader",
+        "image": "https://i.postimg.cc/ZRPBB105/1180255bk01-1180255bk01-main-image-ecommerce-christianlouboutin-rantulow-1180255-bk01-1-1200x1200.jpg",
+        "testimonial": "As a web development student, I have been thoroughly impressed with Inam skills and dedication to the craft. His/Her ability to quickly learn and apply new technologies is admirable. Inam attention to detail ensures that every project is executed with precision and meets the highest standards. Inam is a reliable team player who always goes above and beyond to ensure project success. I highly recommend Inam for any ICT company."
+    },
+    {
+        "id": 6,
+        "name": "Asiphe Ndimlana",
+        "desc": "Colleague",
+        "image": "https://i.postimg.cc/BQ1Vmf1K/C12-Asiphe-Ndimlana-3.jpg",
+        "testimonial": "With a remarkable skill set in IT, Inam is committed to delivering only the best in his work. His unwavering dedication and consistent efforts go beyond what is expected, ensuring projects are completed within set timelines and of superior standards."
+    }
+],
+"education": [
+    {
+        "id": 1,
+        "name": "Meadowridge Primary School",
+        "role": "Student",
+        "desc": "I went to Meadowridge Primary School, Mitchell's Plain, I never changed a primary school before I went there from grade 1 to grade 7.",
+        "years": "Jan 2009 - Nov 2017"
+    },
+    {
+        "id": 2,
+        "name": "Rhodes High School",
+        "role": "Student",
+        "desc": "I went to Rhodes High School, Mowbray for my high school years and their curriculum is designed to provide students with the knowledge, skills and values they need for success in their future academic pursuits. We had highly qualified teachers who are dedicated to helping each student their full potential. I took some extra-curricular activities which was soccer and athletics throughout high school. I obtained a diploma pass in matric last year.",
+        "years": "Jan 2018 - Nov 2022" 
+    }
+]
+}
