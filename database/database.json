@@ -5,72 +5,72 @@
         "name": "E-Commerce Website",
         "image": "https://i.postimg.cc/7hP4TdTt/Screenshot-2023-07-05-092516.png",
         "desc": "The is an e-commerce website which was JavaScript End-Of-Module-Project. It includes a modern, responsive design that is optimized for mobile devices and tablets. The UI also feature intuitive navigation menus, product categories, shopping carts and checkout forms. ",
-        "github": "",
-        "netlify": ""
+        "github": "https://github.com/inamnk28/JavaScript-End-Of-Module-Project.git",
+        "netlify": "https://heroic-beijinho-6c64ee.netlify.app/"
     },
     {
         "id": 2,
         "name": "Calculator Task",
         "image": "https://i.postimg.cc/k4fPQwCj/Screenshot-2023-07-05-085908.png",
         "desc": ".This is a calculator task created using HTML, CSS and JavaScript, it has basic functions of a calculator, it has a clear display area to show the results of calculations and the user interface is intuitive and easy to use for users with minimal technical knowledge. ",
-        "github": "",
-        "netlify": ""
+        "github": "https://github.com/inamnk28/JavaScript-Calculator-Task.git",
+        "netlify": "https://inam-calculator.netlify.app/"
     },
     {
         "id": 3,
         "name": "BMI-Calculator Task",
         "image": "https://i.postimg.cc/85jgbMCN/Screenshot-2023-07-05-090110.png",
         "desc": "This project involve creating a basic BMI calculator using HTML, CSS and JavaScript. This BMI calculator include two text boxes for entering height and weight, as well as button for submitting the data. Once submitted, the page will return the calculated BMI value along with a description of what it means.",
-        "github": "",
-        "netlify": ""
+        "github": "https://github.com/inamnk28/Javascript-BMI-Calculator-Task.git",
+        "netlify": "https://inam-bmi-calculator.netlify.app/"
     },
     {
         "id": 4,
         "name": "To Do List",
         "image": "https://i.postimg.cc/TP39yck2/Screenshot-2023-07-05-085608.png",
         "desc": "This is a second JavaScript task whereby I had to create a To Do List using HTML, CSS and JavaScript. It is able to store data in the browser's local storage so that it can be accessed even after closing the page and the user is able to add and delete tasks with description.",
-        "github": "",
-        "netlify": ""
+        "github": "https://github.com/inamnk28/JavaScript-To-Do-List.git",
+        "netlify": "https://frabjous-tartufo-8cd1bf.netlify.app/"
     },
     {
         "id": 5,
         "name": "Temperature Converter",
         "image": "https://i.postimg.cc/bv5QZfDL/Screenshot-2023-07-05-085757.png",
         "desc": "This is a third JavaScript task whereby I had create a Temperature Converter using HTML, CSS and JavaScript. This temperature converter allows users to convert temperatures between Celsius and Fahrenheit scales. The UI is easy-to-use for all types of users.",
-        "github": "",
-        "netlify": ""
+        "github": "https://github.com/inamnk28/Temperature_Converter.git",
+        "netlify": "https://peaceful-croquembouche-e0c5aa.netlify.app/"
     },
     {
         "id": 6,
         "name": "Book Store",
         "image": "https://i.postimg.cc/hPmx5md4/Screenshot-2023-07-05-085700.png",
         "desc": "This was a practice for the JavaScript-End-Of-Module Project and the site is user friendly.",
-        "github": "",
-        "netlify": ""
+        "github": "https://github.com/inamnk28/JavaScript-Book_Store.git",
+        "netlify": "https://leafy-trifle-d0bb1e.netlify.app/"
     },
     {
         "id": 7,
         "name": "First Portfolio Website",
         "image": "https://i.postimg.cc/rs4mQvpV/Screenshot-2023-07-05-090232.png",
         "desc": "This was my first portfolio created using HTML, CSS and Bootstrap.",
-        "github": "",
-        "netlify": ""
+        "github": "https://github.com/inamnk28/Portfolio-Website.git",
+        "netlify": "https://lambent-snickerdoodle-18176a.netlify.app/"
     },
     {
         "id": 8,
         "name": "Class List Table",
         "image": "https://i.postimg.cc/pr5b67nT/Class-List.png",
         "desc": "This was my first project that I did using HTML and CSS.",
-        "github": "",
-        "netlify": ""
+        "github": "https://github.com/inamnk28/css-exercise.git",
+        "netlify": "https://glistening-vacherin-fd07c1.netlify.app/"
     },
     {
         "id": 9,
         "name": "Vue.Js E-Commerce Replication",
         "image": "https://i.postimg.cc/7hP4TdTt/Screenshot-2023-07-05-092516.png",
         "desc": "This was a Vue.Js practice whereby you had to a replication of your e-commerce website using Vue.Js.",
-        "github": "",
-        "netlify": ""
+        "github": "https://github.com/inamnk28/ecommerce-vue-app.git",
+        "netlify": "https://cool-khapse-e6c843.netlify.app/"
     }
  ],
  "testimonials": [
