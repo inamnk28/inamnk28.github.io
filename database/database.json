@@ -145,84 +145,84 @@
         "id": 1,
         "name": "HTML",
         "progress": "85%",
-        "icon": "https://img.icons8.com/plasticine/100/html-5.png",
+        "icon": "https://i.postimg.cc/k4WCtN8T/removal-ai-tmp-64a7e70bed12f.png",
         "category": "Languages"
     },
     {
         "id": 2,
         "name": "CSS",
         "progress": "70%",
-        "icon": "https://img.icons8.com/plasticine/100/css3.png",
+        "icon": "https://i.postimg.cc/hv02khWD/removal-ai-tmp-64a7e5e1cddb4.png",
         "category": "Languages"
     },
     {
         "id": 3,
         "name": "JavaScript",
         "progress": "50%",
-        "icon": "https://img.icons8.com/dusk/64/javascript-logo.png",
+        "icon": "https://i.postimg.cc/J7NqpTLR/Java-Script-logo.png",
         "category": "Language"
     },
     {
         "id": 4,
         "name": "Vue.Js",
         "progress": "45%",
-        "icon": "https://img.icons8.com/color/48/vue-js.png",
+        "icon": "https://i.postimg.cc/HLd5czfL/removal-ai-tmp-64a7e892292d9.png",
         "category": "Technology"
     },
     {
         "id": 5,
         "name": "Bootstrap",
         "progress": "90%",
-        "icon": "https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/28/external-bootstrap-a-free-and-open-source-css-framework-logo-fresh-tal-revivo.png",
+        "icon": "https://i.postimg.cc/6QmJPjVj/removal-ai-tmp-64a7e591edf19.png",
         "category": "Technology"
     },
     {
         "id": 6,
         "name": "Firebase",
         "progress": "40%",
-        "icon": "https://img.icons8.com/color/48/firebase.png",
+        "icon": "https://i.postimg.cc/cCynRNHf/removal-ai-325bafe8-351f-48cb-a575-1315dd7c3fe6.png",
         "category": "Technology"
     },
     {
         "id": 7,
         "name": "Netlify",
         "progress": "75%",
-        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png",
+        "icon": "https://i.postimg.cc/bYbrQkpc/removal-ai-tmp-64a7e6c119e03.png",
         "category": "Technology"
     },
     {
         "id": 8,
         "name": "Figma",
         "progress": "80%",
-        "icon": "https://img.icons8.com/fluency/48/figma.png",
+        "icon": "https://i.postimg.cc/gkkswzbh/removal-ai-tmp-64a7e61fd0278.png",
         "category": "Technology"
     },
     {
         "id": 9,
         "name": "Command Line Tools",
         "progress": "85%",
-        "icon": "https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-command-line-computer-science-flaticons-flat-flat-icons.pn",
+        "icon": "https://i.postimg.cc/Fzk1nCfN/png-transparent-command-line-interface-npm-computer-icons-github-angle-text-logo-thumbnail.png",
         "category": "Other"
     },
     {
         "id": 10,
         "name": "Package Managing",
         "progress": "30%",
-        "icon": "https://img.icons8.com/color/48/npm.png",
+        "icon": "https://i.postimg.cc/c4xK06yp/removal-ai-tmp-64a7e7e9d21d2.png",
         "category": "Other"
     },
     {
         "id": 11,
         "name": "Git",
         "progress": "65%",
-        "icon": "https://img.icons8.com/color/48/git.png",
+        "icon": "https://i.postimg.cc/4NbXNTRj/png-transparent-github-repository-commit-bitbucket-github-angle-orange-logo.png",
         "category": "Other"
     },
     {
         "id": 12,
         "name": "GitHub",
         "progress": "80%",
-        "icon": "https://img.icons8.com/color/48/github--v1.png",
+        "icon": "https://i.postimg.cc/k4WCtN8T/removal-ai-tmp-64a7e70bed12f.png",
         "category": "Other"
     }
 ]
