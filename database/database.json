@@ -145,84 +145,84 @@
         "id": 1,
         "name": "HTML",
         "progress": "85%",
-        "icon": "I am currently studying Full-Stack Web Development at Life Choices Academy, I am learning a lot about programming at Life Choices and I am above average when it comes to the programming we learn at Life Choices Academy.",
+        "icon": "https://img.icons8.com/plasticine/100/html-5.png",
         "category": "Languages"
     },
     {
         "id": 2,
         "name": "CSS",
         "progress": "70%",
-        "icon": "I am currently studying Full-Stack Web Development at Life Choices Academy, I am learning a lot about programming at Life Choices and I am above average when it comes to the programming we learn at Life Choices Academy.",
+        "icon": "https://img.icons8.com/plasticine/100/css3.png",
         "category": "Languages"
     },
     {
         "id": 3,
         "name": "JavaScript",
         "progress": "50%",
-        "icon": "I am currently studying Full-Stack Web Development at Life Choices Academy, I am learning a lot about programming at Life Choices and I am above average when it comes to the programming we learn at Life Choices Academy.",
+        "icon": "https://img.icons8.com/dusk/64/javascript-logo.png",
         "category": "Language"
     },
     {
         "id": 4,
         "name": "Vue.Js",
         "progress": "45%",
-        "icon": "I am currently studying Full-Stack Web Development at Life Choices Academy, I am learning a lot about programming at Life Choices and I am above average when it comes to the programming we learn at Life Choices Academy.",
+        "icon": "https://img.icons8.com/color/48/vue-js.png",
         "category": "Technology"
     },
     {
         "id": 5,
         "name": "Bootstrap",
         "progress": "90%",
-        "icon": "I am currently studying Full-Stack Web Development at Life Choices Academy, I am learning a lot about programming at Life Choices and I am above average when it comes to the programming we learn at Life Choices Academy.",
+        "icon": "https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/28/external-bootstrap-a-free-and-open-source-css-framework-logo-fresh-tal-revivo.png",
         "category": "Technology"
     },
     {
         "id": 6,
         "name": "Firebase",
         "progress": "40%",
-        "icon": "I am currently studying Full-Stack Web Development at Life Choices Academy, I am learning a lot about programming at Life Choices and I am above average when it comes to the programming we learn at Life Choices Academy.",
+        "icon": "https://img.icons8.com/color/48/firebase.png",
         "category": "Technology"
     },
     {
         "id": 7,
         "name": "Netlify",
         "progress": "75%",
-        "icon": "I am currently studying Full-Stack Web Development at Life Choices Academy, I am learning a lot about programming at Life Choices and I am above average when it comes to the programming we learn at Life Choices Academy.",
+        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png",
         "category": "Technology"
     },
     {
         "id": 8,
         "name": "Figma",
         "progress": "80%",
-        "icon": "I am currently studying Full-Stack Web Development at Life Choices Academy, I am learning a lot about programming at Life Choices and I am above average when it comes to the programming we learn at Life Choices Academy.",
+        "icon": "https://img.icons8.com/fluency/48/figma.png",
         "category": "Technology"
     },
     {
         "id": 9,
         "name": "Command Line Tools",
         "progress": "85%",
-        "icon": "I am currently studying Full-Stack Web Development at Life Choices Academy, I am learning a lot about programming at Life Choices and I am above average when it comes to the programming we learn at Life Choices Academy.",
+        "icon": "https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-command-line-computer-science-flaticons-flat-flat-icons.pn",
         "category": "Other"
     },
     {
         "id": 10,
         "name": "Package Managing",
         "progress": "30%",
-        "icon": "I am currently studying Full-Stack Web Development at Life Choices Academy, I am learning a lot about programming at Life Choices and I am above average when it comes to the programming we learn at Life Choices Academy.",
+        "icon": "https://img.icons8.com/color/48/npm.png",
         "category": "Other"
     },
     {
         "id": 11,
         "name": "Git",
         "progress": "65%",
-        "icon": "I am currently studying Full-Stack Web Development at Life Choices Academy, I am learning a lot about programming at Life Choices and I am above average when it comes to the programming we learn at Life Choices Academy.",
+        "icon": "https://img.icons8.com/color/48/git.png",
         "category": "Other"
     },
     {
         "id": 12,
         "name": "GitHub",
         "progress": "80%",
-        "icon": "I am currently studying Full-Stack Web Development at Life Choices Academy, I am learning a lot about programming at Life Choices and I am above average when it comes to the programming we learn at Life Choices Academy.",
+        "icon": "https://img.icons8.com/color/48/github--v1.png",
         "category": "Other"
     }
 ]
