@@ -20,7 +20,7 @@
         "id": 3,
         "name": "BMI-Calculator Task",
         "image": "https://i.postimg.cc/85jgbMCN/Screenshot-2023-07-05-090110.png",
-        "desc": "This project involve creating a basic BMI calculator using HTML, CSS and JavaScript. This BMI calculator include two text boxes for entering height and weight, as well as button for submitting the data.",
+        "desc": "This BMI calculator include two text boxes for entering height and weight, as well as button for submitting the data.",
         "github": "https://github.com/inamnk28/Javascript-BMI-Calculator-Task.git",
         "netlify": "https://inam-bmi-calculator.netlify.app/"
     },
